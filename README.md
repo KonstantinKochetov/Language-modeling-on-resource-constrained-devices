@@ -8,4 +8,4 @@
 ### Working. The project is in working condition as you can see from the screenshot. Code for this project is not presented in this repo, but rather is private.
 
 
-<img src="images/AI-Shakespeare.png" width="500">
+<img src="images/ai-shakespeare.png" width="500">
