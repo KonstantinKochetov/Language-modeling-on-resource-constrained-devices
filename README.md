@@ -15,4 +15,4 @@ The bpc (bits per character) metric on the test set is rather high since the mod
 The project is in working condition as you can see from the screenshot. Code for this project is not presented in this repo, but rather is private.
 
 
-<img src="images/ai-shakespeare.png" width="500">
+<img src="images/ai-shakespeare.png" width="250">
