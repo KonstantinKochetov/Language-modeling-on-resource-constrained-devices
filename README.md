@@ -12,7 +12,7 @@ The model uses character embeddings derived from GloVe word embeddings to captur
 ### Evaluation. 
 The bpc (bits per character) metric on the test set is rather high since the model is really small (800k parameters, 2.7Mb after conversion), otherwise, it would not work on a mobile device. Still, it produces syntatically correct text and sometimes is rather coherent. 
 ### Working. 
-The project is in working condition as you can see from the screenshot. Code for this project is not presented in this repo, but rather is private.
+The project is in working condition as you can see from the screenshot. Code for this project is private.
 
 
 <img src="images/ai-shakespeare.png" width="350">
