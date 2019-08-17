@@ -1,6 +1,6 @@
-# AI-Shakespeare
+# Language modeling for mobile devices
 ### Introduction. 
-This is an AI-Shakespeare project. It is a neural language model embedded into a mobile application. <br/>
+It is a neural language model embedded into a mobile application. <br/>
 ### Poetry generation. 
 Essentialy it is a AI-bot, which generates shakespeare-style poetry given an input from the user <br/>
 ### On-device. 
