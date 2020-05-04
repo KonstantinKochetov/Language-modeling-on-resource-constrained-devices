@@ -15,5 +15,8 @@ UPDATE: The same model gives a good result on the Penn TreeBank dataset with BPC
 ### Working. 
 The project is in working condition as you can see from the screenshot. Code for this project is private.
 
+![Alt Text](images/ai-shakespeare.gif)
 
 <img src="images/ai-shakespeare.png" width="350">
+
+
