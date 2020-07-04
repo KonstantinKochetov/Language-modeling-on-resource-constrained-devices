@@ -4,7 +4,7 @@ It is a neural language model embedded into a mobile application. <br/>
 ### Poetry generation. 
 Essentialy it is a AI-bot, which generates poetry given an arbitrary input from the user <br/>
 ### On-device. 
-The model is built into mobile application, therefore it does inference offline, operates with low latency and does not require an Internet connection. 
+The model is built into mobile application, therefore it does inference offline (does not require an Internet connection), and operates with low latency.
 <br> This was the hardest part to do because: <br>
 - the size of the model had to be really small to work on a mobile device. I managed to downsize the model by the factor of 14 by using characters (not words) as input and character embeddings; <br>
 - there were no mobile APIs to use for LSTM/RNN networks for inference on a mobile device; 
