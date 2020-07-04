@@ -2,12 +2,12 @@
 ### Introduction. 
 It is a neural language model embedded into a mobile application. <br/>
 ### Poetry generation. 
-Essentialy it is a AI-bot, which generates shakespeare-style poetry given an input from the user <br/>
+Essentialy it is a AI-bot, which generates poetry given an arbitrary input from the user <br/>
 ### On-device. 
 The model is built into mobile application, therefore it does inference offline, operates with low latency and does not require an Internet connection. 
 <br> This was the hardest part to do because: <br>
 - the size of the model had to be really small to work on a mobile device. I managed to downsize the model by the factor of 14 by using characters (not words) as input and character embeddings; <br>
-- there were no mobile APIs to use for LSTM/RNN networks for inference; 
+- there were no mobile APIs to use for LSTM/RNN networks for inference on a mobile device; 
 - a mobile environment did not have any pre-built functionalities for statistical distributions (I had to write it myself), which were needed as a final step after softmax activation.
 ### Inference. 
 UPDATE: The inference time is 1.2 sec for 300 text characters.
