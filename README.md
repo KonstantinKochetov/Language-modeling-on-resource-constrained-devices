@@ -1,4 +1,6 @@
 # Language modeling for mobile devices
+### Paper/thesis
+[On-device-language-modeling](on-device-language-modeling.pdf)
 ### Introduction. 
 It is a neural language model embedded into a mobile application. <br/>
 ### Poetry generation. 
